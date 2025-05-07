@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mensaje">
+        <item quantity="one">Has sacado un %1s. \n\nCon esa nota \nhas conseguido \n%1d  punto\nen tu tarjeta \nTOKIO SCHOOL !!</item>
+        <item quantity="other">Has sacado un %1s. \n\nCon esa nota \nhas conseguido \n%1d  puntos\nen tu tarjeta \nTOKIO SCHOOL !!</item>
+    </plurals>
+</resources>

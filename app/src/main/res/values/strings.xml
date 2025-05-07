@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OnTouchListener</string>
+    <string name="practica_pulsar_sobre_el_fondo_con_touchlistener">PRACTICA PULSAR SOBRE EL FONDO CON TOUCHLISTENER Y CONVERTIR EN PLURAL</string>
+    <string name="descripcion">Eligiendo un número en el Spinner, se aplicarán diferentes órdenes al pulsar en cualquier zona de la pantalla hasta pulsar en la zona CALIFICAR. Tras esto mostrará un mensaje con la palabra punto o puntos, en singular o plural, según el número que describe.</string>
+    <string name="elige_una_nota_del_spinner">Elige una nota del Spinner</string>
+    <string name="calificar">CALIFICAR</string>
+    <string name="premio">ESTO EQUIVALE A ¡¡ %s PUNTO EN TU TARJETA TOKIO SCHOOL !!</string>
+    <string-array name="notas">
+            <item>0</item>
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+            <item>4</item>
+            <item>5</item>
+            <item>6</item>
+            <item>7</item>
+            <item>8</item>
+            <item>9</item>
+            <item>10</item>
+    </string-array>
+</resources>
